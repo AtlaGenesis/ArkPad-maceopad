@@ -22,3 +22,5 @@ I used KMK for the firmware, it's in the ArkPad Firmware files
 - 2x LED SK6812 MINI
 - 3D printed Case (ArkPad Base & ArkPad top)
 - 4x 3.4mm fastening screws
+
+All the files are inside the ArkPad folder!
